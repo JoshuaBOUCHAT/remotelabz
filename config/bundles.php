@@ -23,4 +23,5 @@ return [
     Remotelabz\NetworkBundle\RemotelabzNetworkBundle::class => ['all' => true],
     Remotelabz\Message\RemotelabzMessageBundle::class => ['all' => true],
     CalendarBundle\CalendarBundle::class => ['all' => true],
+    Oneup\UploaderBundle\OneupUploaderBundle::class => ['all' => true],
 ];

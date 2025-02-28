@@ -25,6 +25,7 @@
         "lexik/jwt-authentication-bundle": "^2.21",
         "limenius/react-bundle": "^5.0",
         "myclabs/deep-copy": "^1.9",
+        "oneup/uploader-bundle": "^4.0",
         "phpdocumentor/reflection-docblock": "^5.2",
         "remotelabz/network-bundle": "^1.0.3",
         "remotelabz/remotelabz-message-bundle": "dev-dev",
